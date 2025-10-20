@@ -101,9 +101,8 @@
     <div class="contact">
       <h3>Let’s Connect</h3>
       <p>
-        🌐 <a href="https://nathanstudios.com/about">nathanstudios.com/about</a><br />
-        📧 <a href="mailto:nathanstudiosphoto@gmail.com">nathanstudiosphoto@gmail.com</a><br />
-        📞 +63 *** *** ****<br />
+        📧 <a href="mailto:thannex0902@gmail.com">nathanstudiosphoto@gmail.com</a><br />
+        📞 +63 0995 651 9540<br />
         📍 Philippines
       </p>
     </div>
